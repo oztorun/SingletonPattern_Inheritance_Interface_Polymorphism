@@ -1,0 +1,5 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Inheritance\obj\Debug\Inheritance.pdb

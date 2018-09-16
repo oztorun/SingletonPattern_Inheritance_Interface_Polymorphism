@@ -1,0 +1,10 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Interface\bin\Debug\Interface.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Interface\bin\Debug\Interface.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Interface\obj\Debug\Interface.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\SingletonPattern\Interface\obj\Debug\Interface.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\SingletonPattern\Interface\obj\Debug\Interface.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\SingletonPattern\Interface\obj\Debug\Interface.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\SingletonPattern\Interface\bin\Debug\Interface.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\SingletonPattern\Interface\bin\Debug\Interface.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\SingletonPattern\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
